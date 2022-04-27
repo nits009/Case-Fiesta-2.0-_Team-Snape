@@ -1,5 +1,5 @@
 # Case-Fiesta-2.0-_Team-Snape
-Your first client is PrimaPlanta, a reputed India based FMCG company, that specializes in this
+Your client is PrimaPlanta, a reputed India based FMCG company, that specializes in this
 sector. It is one of the leaders in the industry and has left its mark on the customers, by
 maintaining consistency in quality, demand-study, marketing approach, and appeal to the
 youth. Ask a regular Indian teen about PrimaPlanta, and he/she will tell you a story about how
